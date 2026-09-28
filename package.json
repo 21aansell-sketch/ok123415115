@@ -1,0 +1,15 @@
+{
+  "name": "revenge-vencord-plugin-template",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-revenge.mjs",
+    "test": "tsx --test common/*.test.ts"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "tsx": "^4.20.0",
+    "vendetta-types": "latest"
+  }
+}

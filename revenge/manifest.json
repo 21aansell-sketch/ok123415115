@@ -1,0 +1,14 @@
+{
+  "name": "Local Message Editor",
+  "description": "Locally replace the displayed text of Discord messages without editing the server message.",
+  "authors": [
+    {
+      "name": "brainage04",
+      "id": "0"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "Pencil"
+  }
+}
